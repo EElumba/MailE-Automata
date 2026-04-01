@@ -1,0 +1,2 @@
+# mailE-Automata
+Email Automation

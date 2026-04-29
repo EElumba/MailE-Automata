@@ -1,2 +1,2 @@
-# mailE-Automata
+# MailE-Automata
 Email Automation
